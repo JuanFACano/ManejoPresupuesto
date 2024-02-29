@@ -1,8 +1,4 @@
-# React + Vite
+# Manejo de Presuspuesto
+Esta aplicación se crea con la intención de practicar mis conocimientos baiscod de React y Tailwind CSS 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La aplicación se crea con herramientas base como lo son Vite, Tailwind y Heroicons
